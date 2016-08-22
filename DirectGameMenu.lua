@@ -1,6 +1,6 @@
 ToggleGameMenu = function()
     if not UIParent:IsShown() then
-        UIParent:Show()
+        --UIParent:Show()
         SetUIVisibility(true)
     end
     if GameMenuFrame:IsShown() then
