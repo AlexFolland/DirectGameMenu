@@ -4,10 +4,10 @@ ToggleGameMenu = function()
         SetUIVisibility(true)
     end
     if GameMenuFrame:IsShown() then
-        PlaySound("igMainMenuQuit")
+        PlaySound(SOUNDKIT.IG_MAINMENU_QUIT)
         HideUIPanel(GameMenuFrame)
     else
-        PlaySound("igMainMenuOpen")
+        PlaySound(SOUNDKIT.IG_MAINMENU_OPEN)
         ShowUIPanel(GameMenuFrame)
     end
 end

@@ -1,4 +1,4 @@
-## Interface: 70200
+## Interface: 70300
 ## Title: DirectGameMenu
 ## Notes: opens game menu directly when pressing its bind
 ## Author: Alex Folland
