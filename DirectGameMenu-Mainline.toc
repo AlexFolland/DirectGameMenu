@@ -1,0 +1,6 @@
+## Interface: 90100
+## Title: DirectGameMenu
+## Notes: opens game menu directly when pressing its bind
+## Author: Alex Folland
+
+DirectGameMenu.lua

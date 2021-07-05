@@ -1,5 +1,11 @@
-## Interface: 80000
+## Interface: 90100
+## Interface-Retail: 90100
+## Interface-Classic: 11307
+## Interface-BCC: 20501
 ## Title: DirectGameMenu
 ## Notes: opens game menu directly when pressing its bind
 ## Author: Alex Folland
+
 DirectGameMenu.lua
+
+## X-Curse-Project-ID: 101885
